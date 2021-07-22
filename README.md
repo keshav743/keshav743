@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @keshav743
 - 👀 I’m interested in Software Development and Machine Learning
-- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me - keshava0302@gmail.com
 
 <!---
