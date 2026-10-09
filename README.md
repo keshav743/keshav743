@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Keshavavarmaa S
-- 👀 Interested in Web Development, App Development and Machine Learning
-- 🦿 Tools - Node.JS, React.JS, Vue.JS, Go, Flutter, Docker, Kubernetes, Skaffold
-- 🧑‍💻 Exploring Microservices
+- 🧑‍💻 Exploring Distribute Systems
 - 📫 How to reach me - keshava0302@gmail.com
 
 <!---
