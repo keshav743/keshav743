@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Keshavavarmaa S
-- 🧑‍💻 Exploring Distribute Systems
+- 🧑‍💻 Exploring Distributed Systems
 - 📫 How to reach me - keshava0302@gmail.com
 
 <!---
