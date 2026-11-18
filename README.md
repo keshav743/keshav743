@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Keshavavarmaa S
+- 👋 Hi, I’m Keshav
 - 🧑‍💻 Exploring Distributed Systems
 - 📫 How to reach me - keshava0302@gmail.com
 
